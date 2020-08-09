@@ -13,5 +13,5 @@ Microservices are framed in contrast to *monolithic* applications -- or simply *
 The are many scenarios where one would prefer to design microservices for their applications. In the industry there is a concept of *fault tolerance* defined as thus:
 
 > Fault tolerance refers to the ability of a system (computer, network, cloud cluster, etc.) to continue operating without interruption when one or more of its components fail.
-<p> - (imperva)[https://www.imperva.com/learn/availability/fault-tolerance/] </p>
+[imperva](https://www.imperva.com/learn/availability/fault-tolerance/)
 
