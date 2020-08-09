@@ -4,6 +4,9 @@ Notes for the WIN program microservices quiz
 
 ## What are microservices? ## 
 
+[![Monolith versus Microservices](monolithic-vs-microservices.png)](https://www.redhat.com/en/topics/microservices/what-are-microservices)
+
+
 Microservices, or more specifically *microservices architecture*, is the arrangement of loosely coupled services that act as a singular application. An application structured with this architecture in mind will in fact be a collection of services. An individual service in this application may itself be referred to as a microservice. Microservices are inherently more agile due their high cohesion. A service that needs to only access one type of resource will be more agile than a service that is accessing many. 
 
 It's important to note that this architectural design will enable more cross-team collaboration as services can be easily designed to interface with one another despite of implementation details. 
