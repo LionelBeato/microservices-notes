@@ -44,7 +44,7 @@ Be aware that *all stakeholders* should be involved in the management of APIs fo
 
 >It needs to address each constituency or user group engaged in building and running an API. These include API Architects / Developers, Security Architects, IT Operations and Business Analysts (API marketers). The Layer 7 platform has a product component that addresses each of these stakeholders (API Gateway, API Identity Broker, API Service Manager, API Developer Portal).
 
-One major downside to microservices is [the increase of a system's attack surface.](https://www.securitymagazine.com/articles/89283-ways-to-reduce-your-attack-surface). There are many ways to mitigate this as detailed in the link provided.
+One major downside to microservices is [the increase of a system's attack surface.](https://www.securitymagazine.com/articles/89283-ways-to-reduce-your-attack-surface) There are many ways to mitigate this as detailed in the link provided.
 
 When working with something like kubernetes, defining your security context will be the first step one should take when securing. [See this link for more information](https://unofficial-kubernetes.readthedocs.io/en/latest/concepts/policy/security-context/). As with everything related to containers and microservices security, *automation* is an essential underlying concept. 
 
