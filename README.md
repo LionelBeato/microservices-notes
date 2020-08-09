@@ -10,8 +10,9 @@ Microservices are framed in contrast to *monolithic* applications -- or simply *
 
 ## When should I utilize microservices? ##
 
-The are many scenarios where one would prefer to design microservices for their applications. In the industry there is a concept of *fault tolerance* defined as thus:
+The are many scenarios where one would prefer to design microservices for their applications. In the industry there is a concept of *fault tolerance* [defined as follows](https://www.imperva.com/learn/availability/fault-tolerance/)
+:
 
 > Fault tolerance refers to the ability of a system (computer, network, cloud cluster, etc.) to continue operating without interruption when one or more of its components fail.
-[imperva](https://www.imperva.com/learn/availability/fault-tolerance/)
+
 
